@@ -5,7 +5,7 @@ This Power BI project is a sample dashboard designed to provide insights into Mo
 
 **Key Features:**
 
-Sales Performance: Visualizations showcasing total sales, revenue trends, and regional performance.
+Sales Performance: Visualizations showcasing total sales, revenue trends, and regional performance. 
 Geographic Analysis: Insights into sales distribution across different locations, helping identify high-performing regions.
 Product Breakdown: Analysis of sales by product categories/models, identifying top-performing mobile models.
 Time-Based Trends: Monthly and quarterly trends to track performance over time.
